@@ -1,597 +1,656 @@
 {
   "schema_version": "1",
-  "generated_at_utc": "2026-10-19T23:38:12.190640Z",
-  "revision": 1792453092190,
+  "generated_at_utc": "2026-10-19T23:39:05.622282Z",
+  "revision": 1792453145622,
   "active_alerts": [
     {
       "region_id": "Луганська область",
       "region_name": "Луганська область",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Луганська область",
+      "district_name": "Луганська область",
+      "oblast_name": "Луганська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Автономна Республіка Крим",
       "region_name": "Автономна Республіка Крим",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Автономна Республіка Крим",
+      "district_name": "Автономна Республіка Крим",
+      "oblast_name": "Автономна Республіка Крим",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Липецька територіальна громада",
       "region_name": "Липецька територіальна громада",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Харківський район",
+      "district_name": "Харківський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Покровська територіальна громада",
       "region_name": "Покровська територіальна громада",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Нікопольський район",
+      "district_name": "Нікопольський район",
+      "oblast_name": "Дніпропетровська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Червоногригорівська територіальна громада",
       "region_name": "Червоногригорівська територіальна громада",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Нікопольський район",
+      "district_name": "Нікопольський район",
+      "oblast_name": "Дніпропетровська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Донецький район",
       "region_name": "Донецький район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Донецький район",
+      "district_name": "Донецький район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Волноваський район",
       "region_name": "Волноваський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Волноваський район",
+      "district_name": "Волноваський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Покровський район",
       "region_name": "Покровський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Покровський район",
+      "district_name": "Покровський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Краматорський район",
       "region_name": "Краматорський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Краматорський район",
+      "district_name": "Краматорський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Бахмутський район",
       "region_name": "Бахмутський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Бахмутський район",
+      "district_name": "Бахмутський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Горлівський район",
       "region_name": "Горлівський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Горлівський район",
+      "district_name": "Горлівський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Маріупольський район",
       "region_name": "Маріупольський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Маріупольський район",
+      "district_name": "Маріупольський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Синельниківський район",
       "region_name": "Синельниківський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Синельниківський район",
+      "district_name": "Синельниківський район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Кальміуський район",
       "region_name": "Кальміуський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Кальміуський район",
+      "district_name": "Кальміуський район",
+      "oblast_name": "Донецька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Ізюмський район",
       "region_name": "Ізюмський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Ізюмський район",
+      "district_name": "Ізюмський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Сумський район",
       "region_name": "Сумський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Сумський район",
+      "district_name": "Сумський район",
+      "oblast_name": "Сумська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Бердянський район",
       "region_name": "Бердянський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Бердянський район",
+      "district_name": "Бердянський район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Василівський район",
       "region_name": "Василівський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Василівський район",
+      "district_name": "Василівський район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Пологівський район",
       "region_name": "Пологівський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Пологівський район",
+      "district_name": "Пологівський район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Мелітопольський район",
       "region_name": "Мелітопольський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Мелітопольський район",
+      "district_name": "Мелітопольський район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Запорізький район",
       "region_name": "Запорізький район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Запорізький район",
+      "district_name": "Запорізький район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Куп'янський район",
       "region_name": "Куп'янський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Куп'янський район",
+      "district_name": "Куп'янський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Харківський район",
       "region_name": "Харківський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Харківський район",
+      "district_name": "Харківський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Чугуївський район",
       "region_name": "Чугуївський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Чугуївський район",
+      "district_name": "Чугуївський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Харківська територіальна громада",
       "region_name": "Харківська територіальна громада",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Харківський район",
+      "district_name": "Харківський район",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "м. Харків",
       "region_name": "м. Харків",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "м. Харків",
+      "district_name": "м. Харків",
+      "oblast_name": "Харківська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Павлоградський район",
       "region_name": "Павлоградський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Павлоградський район",
+      "district_name": "Павлоградський район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Чернігівський район",
       "region_name": "Чернігівський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Чернігівський район",
+      "district_name": "Чернігівський район",
+      "oblast_name": "Чернігівська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Дніпровський район",
       "region_name": "Дніпровський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Дніпровський район",
+      "district_name": "Дніпровський район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Кам'янський район",
       "region_name": "Кам'янський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Кам'янський район",
+      "district_name": "Кам'янський район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Подільський район",
       "region_name": "Подільський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Подільський район",
+      "district_name": "Подільський район",
+      "oblast_name": "Одеська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Вишгородський район",
       "region_name": "Вишгородський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Вишгородський район",
+      "district_name": "Вишгородський район",
+      "oblast_name": "Київська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Криворізький район",
       "region_name": "Криворізький район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Криворізький район",
+      "district_name": "Криворізький район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Криворізька територіальна громада",
       "region_name": "Криворізька територіальна громада",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Криворізький район",
+      "district_name": "Криворізький район",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "м. Кривий Ріг",
       "region_name": "м. Кривий Ріг",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "м. Кривий Ріг",
+      "district_name": "м. Кривий Ріг",
+      "oblast_name": "Дніпропетровська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Тульчинський район",
       "region_name": "Тульчинський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Тульчинський район",
+      "district_name": "Тульчинський район",
+      "oblast_name": "Вінницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Могилів-Подільський район",
       "region_name": "Могилів-Подільський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Могилів-Подільський район",
+      "district_name": "Могилів-Подільський район",
+      "oblast_name": "Вінницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Богодухівський район",
       "region_name": "Богодухівський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Богодухівський район",
+      "district_name": "Богодухівський район",
+      "oblast_name": "Харківська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Жмеринський район",
       "region_name": "Жмеринський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Жмеринський район",
+      "district_name": "Жмеринський район",
+      "oblast_name": "Вінницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Коростенський район",
       "region_name": "Коростенський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Коростенський район",
+      "district_name": "Коростенський район",
+      "oblast_name": "Житомирська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Шосткинський район",
       "region_name": "Шосткинський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Шосткинський район",
+      "district_name": "Шосткинський район",
+      "oblast_name": "Сумська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Конотопський район",
       "region_name": "Конотопський район",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Конотопський район",
+      "district_name": "Конотопський район",
+      "oblast_name": "Сумська область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Корюківський район",
       "region_name": "Корюківський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Корюківський район",
+      "district_name": "Корюківський район",
+      "oblast_name": "Чернігівська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Дністровський район",
       "region_name": "Дністровський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Дністровський район",
+      "district_name": "Дністровський район",
+      "oblast_name": "Чернівецька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Кам'янець-Подільський район",
       "region_name": "Кам'янець-Подільський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Кам'янець-Подільський район",
+      "district_name": "Кам'янець-Подільський район",
+      "oblast_name": "Хмельницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Голованівський район",
       "region_name": "Голованівський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Голованівський район",
+      "district_name": "Голованівський район",
+      "oblast_name": "Кіровоградська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Уманський район",
       "region_name": "Уманський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Уманський район",
+      "district_name": "Уманський район",
+      "oblast_name": "Черкаська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Хмельницький район",
       "region_name": "Хмельницький район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Хмельницький район",
+      "district_name": "Хмельницький район",
+      "oblast_name": "Хмельницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Миколаївський район",
       "region_name": "Миколаївський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Миколаївський район",
+      "district_name": "Миколаївський район",
+      "oblast_name": "Миколаївська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Запорізька територіальна громада",
       "region_name": "Запорізька територіальна громада",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "Запорізький район",
+      "district_name": "Запорізький район",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "м. Запоріжжя",
       "region_name": "м. Запоріжжя",
-      "district_id": "",
-      "district_name": "",
+      "district_id": "м. Запоріжжя",
+      "district_name": "м. Запоріжжя",
+      "oblast_name": "Запорізька область",
       "level": "red",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Гайсинський район",
       "region_name": "Гайсинський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Гайсинський район",
+      "district_name": "Гайсинський район",
+      "oblast_name": "Вінницька область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Сарненський район",
       "region_name": "Сарненський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Сарненський район",
+      "district_name": "Сарненський район",
+      "oblast_name": "Рівненська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Первомайський район",
       "region_name": "Первомайський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Первомайський район",
+      "district_name": "Первомайський район",
+      "oblast_name": "Миколаївська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Рівненський район",
       "region_name": "Рівненський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Рівненський район",
+      "district_name": "Рівненський район",
+      "oblast_name": "Рівненська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Чортківський район",
       "region_name": "Чортківський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Чортківський район",
+      "district_name": "Чортківський район",
+      "oblast_name": "Тернопільська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Березівський район",
       "region_name": "Березівський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Березівський район",
+      "district_name": "Березівський район",
+      "oblast_name": "Одеська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Тернопільський район",
       "region_name": "Тернопільський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Тернопільський район",
+      "district_name": "Тернопільський район",
+      "oblast_name": "Тернопільська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     },
     {
       "region_id": "Вознесенський район",
       "region_name": "Вознесенський район",
-      "district_id": "",
-      "district_name": "",
-      "level": "red",
+      "district_id": "Вознесенський район",
+      "district_name": "Вознесенський район",
+      "oblast_name": "Миколаївська область",
+      "level": "yellow",
       "alert_type": "air_raid",
       "status": "active",
-      "updated_at_utc": "2026-10-19T23:38:12.190640Z"
+      "updated_at_utc": "2026-10-19T23:39:05.622282Z"
     }
   ]
 }
