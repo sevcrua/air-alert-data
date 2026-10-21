@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
-  "generated_at_utc": "2026-10-21T01:23:34.428982Z",
-  "revision": 1792545814429,
+  "generated_at_utc": "2026-10-21T01:24:51.228431Z",
+  "revision": 1792545891228,
   "active_alerts": [
     {
       "region_id": "Луганська область",
@@ -14,7 +14,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Автономна Республіка Крим",
@@ -27,7 +27,7 @@
       "alert_type": "air_raid",
       "notes": "Згідно інформації з Офіційних карт тривог",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Липецька територіальна громада",
@@ -40,7 +40,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Покровська територіальна громада",
@@ -53,7 +53,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Червоногригорівська територіальна громада",
@@ -66,7 +66,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "м. Нікополь",
@@ -79,7 +79,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Нікопольська територіальна громада",
@@ -92,7 +92,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Синельниківський район",
@@ -105,7 +105,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Донецький район",
@@ -118,7 +118,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Маріупольський район",
@@ -131,7 +131,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Волноваський район",
@@ -144,7 +144,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Краматорський район",
@@ -157,7 +157,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Кальміуський район",
@@ -170,7 +170,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Покровський район",
@@ -183,7 +183,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Горлівський район",
@@ -196,7 +196,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Бахмутський район",
@@ -209,7 +209,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Сумський район",
@@ -222,7 +222,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Бердянський район",
@@ -235,7 +235,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Василівський район",
@@ -248,7 +248,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Пологівський район",
@@ -261,7 +261,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Мелітопольський район",
@@ -274,7 +274,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Запорізький район",
@@ -287,20 +287,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
-    },
-    {
-      "region_id": "Запорізька територіальна громада",
-      "region_name": "Запорізька територіальна громада",
-      "district_id": "Запорізький район",
-      "district_name": "Запорізький район",
-      "oblast_name": "Запорізька область",
-      "location_type": "hromada",
-      "level": "red",
-      "alert_type": "air_raid",
-      "notes": "None",
-      "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "м. Запоріжжя",
@@ -313,7 +300,20 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "Запорізька територіальна громада",
+      "region_name": "Запорізька територіальна громада",
+      "district_id": "Запорізький район",
+      "district_name": "Запорізький район",
+      "oblast_name": "Запорізька область",
+      "location_type": "hromada",
+      "level": "red",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Куп'янський район",
@@ -326,7 +326,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Ізюмський район",
@@ -339,7 +339,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Берестинський район",
@@ -352,7 +352,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Броварський район",
@@ -365,7 +365,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Корюківський район",
@@ -378,7 +378,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Новгород-Сіверський район",
@@ -391,7 +391,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Ніжинський район",
@@ -404,7 +404,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Чернігівський район",
@@ -417,7 +417,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Лозівський район",
@@ -430,7 +430,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Вишгородський район",
@@ -443,7 +443,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Нікопольський район",
@@ -456,7 +456,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Бучанський район",
@@ -469,7 +469,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Фастівський район",
@@ -482,7 +482,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "м. Київ",
@@ -495,7 +495,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Бориспільський район",
@@ -508,7 +508,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Павлоградський район",
@@ -521,7 +521,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Самарівський район",
@@ -534,7 +534,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Рівненський район",
@@ -547,7 +547,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Сарненський район",
@@ -560,7 +560,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Вараський район",
@@ -573,7 +573,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Луцький район",
@@ -586,7 +586,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Камінь-Каширський район",
@@ -599,7 +599,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Ковельський район",
@@ -612,7 +612,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Дубенський район",
@@ -625,7 +625,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Володимирський район",
@@ -638,7 +638,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Обухівський район",
@@ -651,7 +651,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Коростенський район",
@@ -664,7 +664,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Житомирський район",
@@ -677,7 +677,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Звягельський район",
@@ -690,7 +690,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Дніпровський район",
@@ -703,20 +703,7 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
-    },
-    {
-      "region_id": "м. Дніпро",
-      "region_name": "м. Дніпро",
-      "district_id": "м. Дніпро",
-      "district_name": "м. Дніпро",
-      "oblast_name": "Дніпропетровська область",
-      "location_type": "city",
-      "level": "red",
-      "alert_type": "air_raid",
-      "notes": "None",
-      "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     },
     {
       "region_id": "Дніпровська територіальна громада",
@@ -729,7 +716,72 @@
       "alert_type": "air_raid",
       "notes": "None",
       "status": "active",
-      "updated_at_utc": "2026-10-21T01:23:34.428982Z"
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "м. Дніпро",
+      "region_name": "м. Дніпро",
+      "district_id": "м. Дніпро",
+      "district_name": "м. Дніпро",
+      "oblast_name": "Дніпропетровська область",
+      "location_type": "city",
+      "level": "red",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "Шептицький район",
+      "region_name": "Шептицький район",
+      "district_id": "Шептицький район",
+      "district_name": "Шептицький район",
+      "oblast_name": "Львівська область",
+      "location_type": "raion",
+      "level": "yellow",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "Яворівський район",
+      "region_name": "Яворівський район",
+      "district_id": "Яворівський район",
+      "district_name": "Яворівський район",
+      "oblast_name": "Львівська область",
+      "location_type": "raion",
+      "level": "yellow",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "Золочівський район",
+      "region_name": "Золочівський район",
+      "district_id": "Золочівський район",
+      "district_name": "Золочівський район",
+      "oblast_name": "Львівська область",
+      "location_type": "raion",
+      "level": "yellow",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
+    },
+    {
+      "region_id": "Львівський район",
+      "region_name": "Львівський район",
+      "district_id": "Львівський район",
+      "district_name": "Львівський район",
+      "oblast_name": "Львівська область",
+      "location_type": "raion",
+      "level": "yellow",
+      "alert_type": "air_raid",
+      "notes": "None",
+      "status": "active",
+      "updated_at_utc": "2026-10-21T01:24:51.228431Z"
     }
   ]
 }
